@@ -7,7 +7,6 @@
 #include <Adafruit_BMP085.h>
 #include "Arduino_LED_Matrix.h"
 
-// Define Pins and Parameters
 #define DHTPIN 2                    
 #define DHTTYPE DHT22               
 #define SOUND_PIN A0                
